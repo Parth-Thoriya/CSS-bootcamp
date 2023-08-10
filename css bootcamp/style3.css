@@ -1,0 +1,40 @@
+.card{
+	width: 450px;
+	margin: 100px auto;	
+	border: 1px solid lightgray;
+	border-radius: 10px;
+	font-family: sans-serif;
+}
+.small-img{
+	float: left;
+	width: 15px;
+	margin-right: 10px;
+}
+.img{
+	width: 100%;
+}
+.card-img{
+	width: 100%;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.card-body{
+	padding: 20px;
+}
+.card-title{
+	font-size: 24px;
+}
+.card-text{
+	color: gray;
+}
+p{
+	color: gray;
+}
+.btn{
+	padding: 10px;
+	background-color: white;
+	border: 1px solid lightgray;
+	color: blue;
+	font-size: 15px;
+	border-radius: 5px;
+}

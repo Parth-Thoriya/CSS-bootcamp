@@ -1,0 +1,22 @@
+.box{
+	width: 500px;
+	background-image: linear-gradient(cyan ,darkcyan);
+	margin: 200px auto;
+	padding: 70px;
+	font-family: sans-serif;	
+	border-radius: 10px;
+	box-sizing: border-box;
+}
+.title{
+	font-size: 40px;
+}
+.btn{
+	background-color: white;
+	border: none;	
+	border-radius: 30px;
+	font-size: 20px;
+	margin-top: 15px;
+	font-weight: 600;
+	padding: 10px;
+}
+

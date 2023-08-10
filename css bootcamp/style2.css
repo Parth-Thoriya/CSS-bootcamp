@@ -1,0 +1,31 @@
+.card{
+	width: 550px;
+	margin: 100px auto;
+	font-family: sans-serif;	
+	box-sizing: border-box;	
+	border: 2px solid lightgray;
+	border-radius: 10px;
+}
+.card-body{		
+	box-sizing: border-box;
+	padding: 25px;
+}
+
+.card-title{
+	font-size: 30px;
+	font-weight: 100;
+}
+.profile{
+	width: 100px;
+	float: left;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	border-radius: 50%;
+}
+.card-footer{
+	border-top: 2px solid lightgray;
+	padding: 20px;
+}
+.link-profile{
+	text-decoration: none;
+}
